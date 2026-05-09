@@ -67,3 +67,18 @@ a {
     font-size: 20px;
     margin-right: 50px;
 }
+
+input {
+    background-color: #efdebf;
+    border-radius: 8px;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.enviar {
+    background-color: #2f4442;
+    color: #efdebf;
+    border: 3px, solid, black;
+    margin-left: 100px;
+}
+
